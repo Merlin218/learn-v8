@@ -1,0 +1,21 @@
+lockfileVersion: 5.3
+
+specifiers:
+  d8: ^0.4.4
+
+devDependencies:
+  d8: 0.4.4
+
+packages:
+
+  /d8/0.4.4:
+    resolution: {integrity: sha1-WYndYrkL3YU9OXjxJhpLx2vPZIU=}
+    engines: {node: '>= 0.8.x'}
+    dependencies:
+      m8: 0.4.4
+    dev: true
+
+  /m8/0.4.4:
+    resolution: {integrity: sha1-Wd+RTZvuKCnOrENGAmq+lFq+1bg=}
+    engines: {node: '>= 0.8.x'}
+    dev: true
